@@ -1,11 +1,17 @@
-{
-  "api": [
-    "https://api.swacloud.com",
-    "https://api2.swacloud.com"
+  {
+    "api": [
+      "https://api.swacloud.com",
+      "https://api2.swacloud.com"
     ],
-  "website": "https://swacloud.com",
-  "support": {
-    "discord": "https://discord.gg/xxx",
-    "telegram": "https://t.me/xxx"
+    "website": "https://swacloud.com",
+    "support": {
+      "discord": "https://discord.gg/JtUz4CcMK8",
+      "telegram": "https://t.me/swacloud",
+      "telegram_premium": "https://t.me/swapremiumbot",
+      "telegram_reseller": "https://t.me/swabyservices"
+    },
+    "github": {
+      "app": "https://github.com/MONZikWasTaken/SWAV2",
+      "org": "https://github.com/swacloud"
+    }
   }
-}
