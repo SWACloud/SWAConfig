@@ -1,0 +1,11 @@
+{
+  "api": [
+    "https://api.swacloud.com",
+    "https://api2.swacloud.com"
+    ],
+  "website": "https://swacloud.com",
+  "support": {
+    "discord": "https://discord.gg/xxx",
+    "telegram": "https://t.me/xxx"
+  }
+}
