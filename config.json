@@ -20,7 +20,7 @@
       "version": "3.0.0",
       "setup": {
         "url": "https://cdn.swacloud.com/releases/SWA_3.1.0_x64-setup.exe",
-        "active": false
+        "active": true
       },
       "portable": {
         "url": "https://cdn.swacloud.com/releases/SWA_3.1.0_portable.zip",
