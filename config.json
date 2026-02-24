@@ -12,6 +12,7 @@
     },
     "github": {
       "app": "https://github.com/MONZikWasTaken/SWAV2",
-      "org": "https://github.com/swacloud"
-    }
+      "org": "https://github.com/swacloud",
+      "legal": "https://raw.githubusercontent.com/SWACloud/SWACloud-Legal/main"
+      }
   }
